@@ -2,6 +2,8 @@
 
 Kolibrie Studio is an AI-powered studio applet built with [Next.js](https://nextjs.org), [React](https://react.dev), [Tailwind CSS](https://tailwindcss.com), and the [Google Gen AI SDK](https://www.npmjs.com/package/@google/genai). It runs inside Google AI Studio as an applet.
 
+<img width="1901" height="895" alt="image" src="https://github.com/user-attachments/assets/12ce2033-5ef8-417d-b00d-caebf92473e1" />
+
 ## Tech stack
 
 - **Framework:** Next.js 15 (App Router, React 19)
